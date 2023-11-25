@@ -1,6 +1,8 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/phone_records
-    username: mikholskiy
-    password: spflmk7q
+    url: jdbc:postgresql://db:5432/phone_records
+    username: record_user
+    password: record_password
     driver-class-name: org.postgresql.Driver
+server:
+  port: 8181
