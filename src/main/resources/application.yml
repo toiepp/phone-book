@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:postgresql://db:5432/phone_records
+    url: jdbc:postgresql://dpg-clgu7r7jc5ks73ehskeg-a:5432/phone_records
     username: record_user
-    password: record_password
+    password: pry2xbdd1EUFWsUFs7oKpTbVZmYTwpxF
     driver-class-name: org.postgresql.Driver
 server:
   port: 8181
