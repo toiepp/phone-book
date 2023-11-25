@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/phone_records
+    username: mikholskiy
+    password: spflmk7q
+    driver-class-name: org.postgresql.Driver
